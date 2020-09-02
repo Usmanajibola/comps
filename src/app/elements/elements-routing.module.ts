@@ -5,6 +5,7 @@ import { ElementsHomeComponent } from './elements-home/elements-home.component';
 
 const routes: Routes = [
   {path:'', component:ElementsHomeComponent},
+  
 ];
 
 @NgModule({
